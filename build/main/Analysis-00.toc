@@ -1,0 +1,1876 @@
+(['C:\\Users\\Jose Luis\\OneDrive\\Escritorio\\Moni_App\\main.py'],
+ ['C:\\Users\\Jose Luis\\OneDrive\\Escritorio\\Moni_App'],
+ ['codecs'],
+ ['C:\\Users\\Jose '
+  'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\stdhooks',
+  'C:\\Users\\Jose '
+  'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\stdhooks\\__pycache__',
+  'C:\\Users\\Jose '
+  'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks',
+  'C:\\Users\\Jose '
+  'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks\\__pycache__',
+  'C:\\Users\\Jose '
+  'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks',
+  'C:\\Users\\Jose '
+  'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material'],
+ {},
+ [],
+ [],
+ False,
+ False,
+ False,
+ {},
+ '3.9.12 (tags/v3.9.12:b28265d, Mar 23 2022, 23:52:46) [MSC v.1929 64 bit '
+ '(AMD64)]',
+ [('pyi_rth_multiprocessing',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pyside2',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pyside2.py',
+   'PYSOURCE'),
+  ('main',
+   'C:\\Users\\Jose Luis\\OneDrive\\Escritorio\\Moni_App\\main.py',
+   'PYSOURCE')],
+ [('inspect',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\inspect.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\metadata.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\typing.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('configparser',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\configparser.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\lzma.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_compression.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\bz2.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('struct',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\struct.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\calendar.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\socket.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\selectors.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\random.py',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\statistics.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\decimal.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\contextvars.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\fractions.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\numbers.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pprint.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\string.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\bisect.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\copy.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\base64.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\getopt.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\gettext.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\quopri.py',
+   'PYMODULE'),
+  ('uu',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\uu.py',
+   'PYMODULE'),
+  ('optparse',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\optparse.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\csv.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\argparse.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\dis.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\opcode.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ast.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('zipimport',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\zipimport.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\signal.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\gzip.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ssl.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('hmac',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\hmac.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('ctypes',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('queue',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\queue.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('secrets',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\secrets.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('runpy',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\runpy.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('getpass',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\netrc.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\shlex.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('ui_interface',
+   'C:\\Users\\Jose Luis\\OneDrive\\Escritorio\\Moni_App\\ui_interface.py',
+   'PYMODULE'),
+  ('icons_rc',
+   'C:\\Users\\Jose Luis\\OneDrive\\Escritorio\\Moni_App\\icons_rc.py',
+   'PYMODULE'),
+  ('PySide2extn.SpiralProgressBar',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2extn\\SpiralProgressBar.py',
+   'PYMODULE'),
+  ('PySide2extn.RoundProgressBar',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2extn\\RoundProgressBar.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\shutil.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('platform',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\platform.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\datetime.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('PySide2extn',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2extn\\__init__.py',
+   'PYMODULE'),
+  ('psutil',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\psutil\\__init__.py',
+   'PYMODULE'),
+  ('psutil._psaix',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\psutil\\_psaix.py',
+   'PYMODULE'),
+  ('glob',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\glob.py',
+   'PYMODULE'),
+  ('psutil._pssunos',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\psutil\\_pssunos.py',
+   'PYMODULE'),
+  ('psutil._psbsd',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\psutil\\_psbsd.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\etree\\cElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\etree\\__init__.py',
+   'PYMODULE'),
+  ('psutil._psosx',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\psutil\\_psosx.py',
+   'PYMODULE'),
+  ('psutil._pswindows',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\psutil\\_pswindows.py',
+   'PYMODULE'),
+  ('psutil._pslinux',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\psutil\\_pslinux.py',
+   'PYMODULE'),
+  ('psutil._psposix',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\psutil\\_psposix.py',
+   'PYMODULE'),
+  ('psutil._compat',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\psutil\\_compat.py',
+   'PYMODULE'),
+  ('psutil._common',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\psutil\\_common.py',
+   'PYMODULE'),
+  ('curses',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\curses\\__init__.py',
+   'PYMODULE'),
+  ('curses.has_key',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\curses\\has_key.py',
+   'PYMODULE'),
+  ('__future__',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\__future__.py',
+   'PYMODULE'),
+  ('qt_material',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\__init__.py',
+   'PYMODULE'),
+  ('jinja2',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\jinja2\\__init__.py',
+   'PYMODULE'),
+  ('jinja2.ext',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\jinja2\\ext.py',
+   'PYMODULE'),
+  ('jinja2.parser',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\jinja2\\parser.py',
+   'PYMODULE'),
+  ('jinja2.lexer',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\jinja2\\lexer.py',
+   'PYMODULE'),
+  ('jinja2._identifier',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\jinja2\\_identifier.py',
+   'PYMODULE'),
+  ('jinja2.defaults',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\jinja2\\defaults.py',
+   'PYMODULE'),
+  ('jinja2.tests',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\jinja2\\tests.py',
+   'PYMODULE'),
+  ('jinja2.filters',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\jinja2\\filters.py',
+   'PYMODULE'),
+  ('jinja2.sandbox',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\jinja2\\sandbox.py',
+   'PYMODULE'),
+  ('jinja2.async_utils',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\jinja2\\async_utils.py',
+   'PYMODULE'),
+  ('markupsafe',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\markupsafe\\__init__.py',
+   'PYMODULE'),
+  ('markupsafe._native',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\markupsafe\\_native.py',
+   'PYMODULE'),
+  ('html',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('jinja2.utils',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\jinja2\\utils.py',
+   'PYMODULE'),
+  ('jinja2.constants',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\jinja2\\constants.py',
+   'PYMODULE'),
+  ('json',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('jinja2.runtime',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\jinja2\\runtime.py',
+   'PYMODULE'),
+  ('jinja2.loaders',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\jinja2\\loaders.py',
+   'PYMODULE'),
+  ('jinja2.exceptions',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\jinja2\\exceptions.py',
+   'PYMODULE'),
+  ('jinja2.environment',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\jinja2\\environment.py',
+   'PYMODULE'),
+  ('asyncio',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.threads',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\threads.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('jinja2.debug',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\jinja2\\debug.py',
+   'PYMODULE'),
+  ('jinja2.compiler',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\jinja2\\compiler.py',
+   'PYMODULE'),
+  ('jinja2.visitor',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\jinja2\\visitor.py',
+   'PYMODULE'),
+  ('jinja2.optimizer',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\jinja2\\optimizer.py',
+   'PYMODULE'),
+  ('jinja2.idtracking',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\jinja2\\idtracking.py',
+   'PYMODULE'),
+  ('jinja2.bccache',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\jinja2\\bccache.py',
+   'PYMODULE'),
+  ('jinja2.nodes',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\jinja2\\nodes.py',
+   'PYMODULE'),
+  ('qt_material.resources',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\resources\\__init__.py',
+   'PYMODULE'),
+  ('qt_material.resources.generate',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\resources\\generate.py',
+   'PYMODULE'),
+  ('xml.dom.minidom',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\dom\\minidom.py',
+   'PYMODULE'),
+  ('xml.dom.pulldom',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\dom\\pulldom.py',
+   'PYMODULE'),
+  ('xml.dom.expatbuilder',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\dom\\expatbuilder.py',
+   'PYMODULE'),
+  ('xml.dom.NodeFilter',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\dom\\NodeFilter.py',
+   'PYMODULE'),
+  ('xml.dom.xmlbuilder',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\dom\\xmlbuilder.py',
+   'PYMODULE'),
+  ('xml.dom.minicompat',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\dom\\minicompat.py',
+   'PYMODULE'),
+  ('xml.dom.domreg',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\dom\\domreg.py',
+   'PYMODULE'),
+  ('xml.dom',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\dom\\__init__.py',
+   'PYMODULE'),
+  ('PySide2',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2\\__init__.py',
+   'PYMODULE'),
+  ('shiboken2',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\shiboken2\\__init__.py',
+   'PYMODULE')],
+ [('api-ms-win-crt-math-l1-1-0.dll',
+   'C:\\Users\\Jose Luis\\anaconda3\\api-ms-win-crt-math-l1-1-0.dll',
+   'BINARY'),
+  ('python39.dll',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\python39.dll',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('api-ms-win-crt-heap-l1-1-0.dll',
+   'C:\\Users\\Jose Luis\\anaconda3\\api-ms-win-crt-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-stdio-l1-1-0.dll',
+   'C:\\Users\\Jose Luis\\anaconda3\\api-ms-win-crt-stdio-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-locale-l1-1-0.dll',
+   'C:\\Users\\Jose Luis\\anaconda3\\api-ms-win-crt-locale-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-runtime-l1-1-0.dll',
+   'C:\\Users\\Jose Luis\\anaconda3\\api-ms-win-crt-runtime-l1-1-0.dll',
+   'BINARY'),
+  ('ucrtbase.dll', 'C:\\Users\\Jose Luis\\anaconda3\\ucrtbase.dll', 'BINARY'),
+  ('api-ms-win-crt-environment-l1-1-0.dll',
+   'C:\\Users\\Jose Luis\\anaconda3\\api-ms-win-crt-environment-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-conio-l1-1-0.dll',
+   'C:\\Users\\Jose Luis\\anaconda3\\api-ms-win-crt-conio-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-filesystem-l1-1-0.dll',
+   'C:\\Users\\Jose Luis\\anaconda3\\api-ms-win-crt-filesystem-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-convert-l1-1-0.dll',
+   'C:\\Users\\Jose Luis\\anaconda3\\api-ms-win-crt-convert-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-process-l1-1-0.dll',
+   'C:\\Users\\Jose Luis\\anaconda3\\api-ms-win-crt-process-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-string-l1-1-0.dll',
+   'C:\\Users\\Jose Luis\\anaconda3\\api-ms-win-crt-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-time-l1-1-0.dll',
+   'C:\\Users\\Jose Luis\\anaconda3\\api-ms-win-crt-time-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-profile-l1-1-0.dll',
+   'C:\\Users\\Jose Luis\\anaconda3\\api-ms-win-core-profile-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-util-l1-1-0.dll',
+   'C:\\Users\\Jose Luis\\anaconda3\\api-ms-win-core-util-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-errorhandling-l1-1-0.dll',
+   'C:\\Users\\Jose Luis\\anaconda3\\api-ms-win-core-errorhandling-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-sysinfo-l1-1-0.dll',
+   'C:\\Users\\Jose Luis\\anaconda3\\api-ms-win-core-sysinfo-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'C:\\Users\\Jose Luis\\anaconda3\\api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-1-0.dll',
+   'C:\\Users\\Jose Luis\\anaconda3\\api-ms-win-core-synch-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-string-l1-1-0.dll',
+   'C:\\Users\\Jose Luis\\anaconda3\\api-ms-win-core-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processenvironment-l1-1-0.dll',
+   'C:\\Users\\Jose '
+   'Luis\\anaconda3\\api-ms-win-core-processenvironment-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-timezone-l1-1-0.dll',
+   'C:\\Users\\Jose Luis\\anaconda3\\api-ms-win-core-timezone-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-heap-l1-1-0.dll',
+   'C:\\Users\\Jose Luis\\anaconda3\\api-ms-win-core-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-handle-l1-1-0.dll',
+   'C:\\Users\\Jose Luis\\anaconda3\\api-ms-win-core-handle-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-debug-l1-1-0.dll',
+   'C:\\Users\\Jose Luis\\anaconda3\\api-ms-win-core-debug-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-2-0.dll',
+   'C:\\Users\\Jose Luis\\anaconda3\\api-ms-win-core-file-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-localization-l1-2-0.dll',
+   'C:\\Users\\Jose Luis\\anaconda3\\api-ms-win-core-localization-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-2-0.dll',
+   'C:\\Users\\Jose Luis\\anaconda3\\api-ms-win-core-synch-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-datetime-l1-1-0.dll',
+   'C:\\Users\\Jose Luis\\anaconda3\\api-ms-win-core-datetime-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-console-l1-1-0.dll',
+   'C:\\Users\\Jose Luis\\anaconda3\\api-ms-win-core-console-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-namedpipe-l1-1-0.dll',
+   'C:\\Users\\Jose Luis\\anaconda3\\api-ms-win-core-namedpipe-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-interlocked-l1-1-0.dll',
+   'C:\\Users\\Jose Luis\\anaconda3\\api-ms-win-core-interlocked-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-0.dll',
+   'C:\\Users\\Jose Luis\\anaconda3\\api-ms-win-core-processthreads-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l2-1-0.dll',
+   'C:\\Users\\Jose Luis\\anaconda3\\api-ms-win-core-file-l2-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-1.dll',
+   'C:\\Users\\Jose Luis\\anaconda3\\api-ms-win-core-processthreads-l1-1-1.dll',
+   'BINARY'),
+  ('api-ms-win-core-memory-l1-1-0.dll',
+   'C:\\Users\\Jose Luis\\anaconda3\\api-ms-win-core-memory-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-1-0.dll',
+   'C:\\Users\\Jose Luis\\anaconda3\\api-ms-win-core-file-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-libraryloader-l1-1-0.dll',
+   'C:\\Users\\Jose Luis\\anaconda3\\api-ms-win-core-libraryloader-l1-1-0.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\bearer\\qgenericbearer.dll',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2\\plugins\\bearer\\qgenericbearer.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\imageformats\\qsvg.dll',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2\\plugins\\imageformats\\qsvg.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\platformthemes\\qxdgdesktopportal.dll',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2\\plugins\\platformthemes\\qxdgdesktopportal.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\iconengines\\qsvgicon.dll',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2\\plugins\\iconengines\\qsvgicon.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\imageformats\\qwbmp.dll',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2\\plugins\\imageformats\\qwbmp.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\platforms\\qoffscreen.dll',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2\\plugins\\platforms\\qoffscreen.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\imageformats\\qjpeg.dll',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2\\plugins\\imageformats\\qjpeg.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\imageformats\\qtga.dll',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2\\plugins\\imageformats\\qtga.dll',
+   'BINARY'),
+  ('PySide2\\d3dcompiler_47.dll',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\Lib\\site-packages\\PySide2\\d3dcompiler_47.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\platforms\\qwebgl.dll',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2\\plugins\\platforms\\qwebgl.dll',
+   'BINARY'),
+  ('PySide2\\libEGL.dll',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\Lib\\site-packages\\PySide2\\libEGL.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\generic\\qtuiotouchplugin.dll',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2\\plugins\\generic\\qtuiotouchplugin.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\imageformats\\qtiff.dll',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2\\plugins\\imageformats\\qtiff.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\platforms\\qdirect2d.dll',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2\\plugins\\platforms\\qdirect2d.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\imageformats\\qico.dll',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2\\plugins\\imageformats\\qico.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\styles\\qwindowsvistastyle.dll',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2\\plugins\\styles\\qwindowsvistastyle.dll',
+   'BINARY'),
+  ('PySide2\\opengl32sw.dll',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\Lib\\site-packages\\PySide2\\opengl32sw.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\imageformats\\qicns.dll',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2\\plugins\\imageformats\\qicns.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\imageformats\\qpdf.dll',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2\\plugins\\imageformats\\qpdf.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\platforminputcontexts\\qtvirtualkeyboardplugin.dll',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2\\plugins\\platforminputcontexts\\qtvirtualkeyboardplugin.dll',
+   'BINARY'),
+  ('PySide2\\libGLESv2.dll',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\Lib\\site-packages\\PySide2\\libGLESv2.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\imageformats\\qwebp.dll',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2\\plugins\\imageformats\\qwebp.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\platforms\\qminimal.dll',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2\\plugins\\platforms\\qminimal.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\platforms\\qwindows.dll',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2\\plugins\\platforms\\qwindows.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\imageformats\\qgif.dll',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2\\plugins\\imageformats\\qgif.dll',
+   'BINARY'),
+  ('_lzma.pyd',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2.pyd',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('select.pyd',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_decimal.pyd',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_multiprocessing.pyd',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('pyexpat.pyd',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_ssl.pyd',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('_ctypes.pyd',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('_queue.pyd',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('unicodedata.pyd',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('PySide2\\QtWidgets.pyd',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2\\QtWidgets.pyd',
+   'EXTENSION'),
+  ('PySide2\\QtGui.pyd',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2\\QtGui.pyd',
+   'EXTENSION'),
+  ('PySide2\\QtCore.pyd',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2\\QtCore.pyd',
+   'EXTENSION'),
+  ('_elementtree.pyd',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_elementtree.pyd',
+   'EXTENSION'),
+  ('psutil\\_psutil_windows.pyd',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\psutil\\_psutil_windows.pyd',
+   'EXTENSION'),
+  ('markupsafe\\_speedups.cp39-win_amd64.pyd',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\markupsafe\\_speedups.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('_overlapped.pyd',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_overlapped.pyd',
+   'EXTENSION'),
+  ('_asyncio.pyd',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\_asyncio.pyd',
+   'EXTENSION'),
+  ('PySide2\\QtUiTools.pyd',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2\\QtUiTools.pyd',
+   'EXTENSION'),
+  ('PySide2\\QtXml.pyd',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2\\QtXml.pyd',
+   'EXTENSION'),
+  ('PySide2\\QtNetwork.pyd',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2\\QtNetwork.pyd',
+   'EXTENSION'),
+  ('shiboken2\\shiboken2.pyd',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\shiboken2\\shiboken2.pyd',
+   'EXTENSION'),
+  ('PySide2\\Qt5Network.dll',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2\\Qt5Network.dll',
+   'BINARY'),
+  ('PySide2\\Qt5Core.dll',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2\\Qt5Core.dll',
+   'BINARY'),
+  ('PySide2\\Qt5Gui.dll',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2\\Qt5Gui.dll',
+   'BINARY'),
+  ('PySide2\\Qt5Svg.dll',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2\\Qt5Svg.dll',
+   'BINARY'),
+  ('PySide2\\Qt5DBus.dll',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2\\Qt5DBus.dll',
+   'BINARY'),
+  ('api-ms-win-crt-utility-l1-1-0.dll',
+   'C:\\Users\\Jose Luis\\anaconda3\\api-ms-win-crt-utility-l1-1-0.dll',
+   'BINARY'),
+  ('PySide2\\Qt5WebSockets.dll',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2\\Qt5WebSockets.dll',
+   'BINARY'),
+  ('PySide2\\Qt5Quick.dll',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2\\Qt5Quick.dll',
+   'BINARY'),
+  ('shiboken2\\MSVCP140.dll',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\shiboken2\\MSVCP140.dll',
+   'BINARY'),
+  ('VCRUNTIME140_1.dll',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('PySide2\\Qt5Widgets.dll',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2\\Qt5Widgets.dll',
+   'BINARY'),
+  ('PySide2\\Qt5Pdf.dll',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2\\Qt5Pdf.dll',
+   'BINARY'),
+  ('PySide2\\Qt5Qml.dll',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2\\Qt5Qml.dll',
+   'BINARY'),
+  ('PySide2\\Qt5VirtualKeyboard.dll',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2\\Qt5VirtualKeyboard.dll',
+   'BINARY'),
+  ('PySide2\\MSVCP140.dll',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\Lib\\site-packages\\PySide2\\MSVCP140.dll',
+   'BINARY'),
+  ('PySide2\\VCRUNTIME140_1.dll',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\Lib\\site-packages\\PySide2\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('libcrypto-1_1.dll',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\libcrypto-1_1.dll',
+   'BINARY'),
+  ('libssl-1_1.dll',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\libssl-1_1.dll',
+   'BINARY'),
+  ('libffi-7.dll',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\DLLs\\libffi-7.dll',
+   'BINARY'),
+  ('shiboken2\\shiboken2.abi3.dll',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\shiboken2\\shiboken2.abi3.dll',
+   'BINARY'),
+  ('python3.dll',
+   'C:\\Users\\Jose '
+   'Luis\\AppData\\Local\\Programs\\Python\\Python39\\python3.dll',
+   'BINARY'),
+  ('PySide2\\pyside2.abi3.dll',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2\\pyside2.abi3.dll',
+   'BINARY'),
+  ('PySide2\\Qt5Xml.dll',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2\\Qt5Xml.dll',
+   'BINARY'),
+  ('shiboken2\\VCRUNTIME140_1.dll',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\shiboken2\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('PySide2\\MSVCP140_1.dll',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2\\MSVCP140_1.dll',
+   'BINARY'),
+  ('PySide2\\Qt5QmlModels.dll',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2\\Qt5QmlModels.dll',
+   'BINARY')],
+ [],
+ [],
+ [('base_library.zip',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\build\\main\\base_library.zip',
+   'DATA'),
+  ('qt_material\\resources\\logo\\__pycache__\\__init__.cpython-39.pyc',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\resources\\logo\\__pycache__\\__init__.cpython-39.pyc',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_en.qm',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2\\translations\\qtbase_en.qm',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_it.qm',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2\\translations\\qtbase_it.qm',
+   'DATA'),
+  ('qt_material\\resources\\source\\sizegrip.svg',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\resources\\source\\sizegrip.svg',
+   'DATA'),
+  ('qt_material\\resources\\source\\uparrow.svg',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\resources\\source\\uparrow.svg',
+   'DATA'),
+  ('qt_material\\resources\\source\\checkbox_checked.svg',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\resources\\source\\checkbox_checked.svg',
+   'DATA'),
+  ('qt_material\\fonts\\roboto\\RobotoCondensed-Regular.ttf',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\fonts\\roboto\\RobotoCondensed-Regular.ttf',
+   'DATA'),
+  ('qt_material\\themes\\dark_red.xml',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\themes\\dark_red.xml',
+   'DATA'),
+  ('qt_material\\resources\\__pycache__\\generate.cpython-39.pyc',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\resources\\__pycache__\\generate.cpython-39.pyc',
+   'DATA'),
+  ('qt_material\\fonts\\roboto\\RobotoCondensed-Light.ttf',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\fonts\\roboto\\RobotoCondensed-Light.ttf',
+   'DATA'),
+  ('qt_material\\themes\\light_blue.xml',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\themes\\light_blue.xml',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_lv.qm',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2\\translations\\qtbase_lv.qm',
+   'DATA'),
+  ('qt_material\\resources\\source\\toolbar-handle-vertical.svg',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\resources\\source\\toolbar-handle-vertical.svg',
+   'DATA'),
+  ('qt_material\\resources\\source\\checklist.svg',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\resources\\source\\checklist.svg',
+   'DATA'),
+  ('qt_material\\dock_theme.ui',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\dock_theme.ui',
+   'DATA'),
+  ('qt_material\\resources\\source\\checklist_indeterminate.svg',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\resources\\source\\checklist_indeterminate.svg',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_zh_TW.qm',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2\\translations\\qtbase_zh_TW.qm',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_ca.qm',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2\\translations\\qtbase_ca.qm',
+   'DATA'),
+  ('qt_material\\resources\\source\\base.svg',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\resources\\source\\base.svg',
+   'DATA'),
+  ('qt_material\\fonts\\roboto\\Roboto-Italic.ttf',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\fonts\\roboto\\Roboto-Italic.ttf',
+   'DATA'),
+  ('qt_material\\resources\\source\\splitter-horizontal.svg',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\resources\\source\\splitter-horizontal.svg',
+   'DATA'),
+  ('qt_material\\themes\\light_cyan_500.xml',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\themes\\light_cyan_500.xml',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_de.qm',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2\\translations\\qtbase_de.qm',
+   'DATA'),
+  ('qt_material\\fonts\\roboto\\Roboto-BoldItalic.ttf',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\fonts\\roboto\\Roboto-BoldItalic.ttf',
+   'DATA'),
+  ('qt_material\\themes\\light_cyan.xml',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\themes\\light_cyan.xml',
+   'DATA'),
+  ('qt_material\\fonts\\roboto\\Roboto-Bold.ttf',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\fonts\\roboto\\Roboto-Bold.ttf',
+   'DATA'),
+  ('qt_material\\resources\\source\\checkbox_checked_invert.svg',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\resources\\source\\checkbox_checked_invert.svg',
+   'DATA'),
+  ('qt_material\\resources\\source\\checkbox_unchecked.svg',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\resources\\source\\checkbox_unchecked.svg',
+   'DATA'),
+  ('qt_material\\resources\\source\\leftarrow2.svg',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\resources\\source\\leftarrow2.svg',
+   'DATA'),
+  ('qt_material\\themes\\light_amber.xml',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\themes\\light_amber.xml',
+   'DATA'),
+  ('qt_material\\resources\\source\\branch-open.svg',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\resources\\source\\branch-open.svg',
+   'DATA'),
+  ('qt_material\\fonts\\roboto\\RobotoCondensed-BoldItalic.ttf',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\fonts\\roboto\\RobotoCondensed-BoldItalic.ttf',
+   'DATA'),
+  ('qt_material\\resources\\logo\\logo.svg',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\resources\\logo\\logo.svg',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_fr.qm',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2\\translations\\qtbase_fr.qm',
+   'DATA'),
+  ('qt_material\\themes\\light_purple_500.xml',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\themes\\light_purple_500.xml',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_sk.qm',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2\\translations\\qtbase_sk.qm',
+   'DATA'),
+  ('qt_material\\resources\\source\\downarrow.svg',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\resources\\source\\downarrow.svg',
+   'DATA'),
+  ('qt_material\\resources\\source\\checkbox_indeterminate.svg',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\resources\\source\\checkbox_indeterminate.svg',
+   'DATA'),
+  ('qt_material\\themes\\light_blue_500.xml',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\themes\\light_blue_500.xml',
+   'DATA'),
+  ('qt_material\\resources\\source\\checklist_invert.svg',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\resources\\source\\checklist_invert.svg',
+   'DATA'),
+  ('qt_material\\resources\\source\\downarrow2.svg',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\resources\\source\\downarrow2.svg',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_pl.qm',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2\\translations\\qtbase_pl.qm',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_cs.qm',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2\\translations\\qtbase_cs.qm',
+   'DATA'),
+  ('qt_material\\fonts\\roboto\\Roboto-BlackItalic.ttf',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\fonts\\roboto\\Roboto-BlackItalic.ttf',
+   'DATA'),
+  ('qt_material\\themes\\dark_yellow.xml',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\themes\\dark_yellow.xml',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_ar.qm',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2\\translations\\qtbase_ar.qm',
+   'DATA'),
+  ('qt_material\\resources\\source\\toolbar-handle-horizontal.svg',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\resources\\source\\toolbar-handle-horizontal.svg',
+   'DATA'),
+  ('qt_material\\resources\\source\\checkbox_indeterminate_invert.svg',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\resources\\source\\checkbox_indeterminate_invert.svg',
+   'DATA'),
+  ('qt_material\\themes\\dark_teal.xml',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\themes\\dark_teal.xml',
+   'DATA'),
+  ('qt_material\\themes\\light_lightgreen_500.xml',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\themes\\light_lightgreen_500.xml',
+   'DATA'),
+  ('qt_material\\themes\\light_yellow.xml',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\themes\\light_yellow.xml',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_da.qm',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2\\translations\\qtbase_da.qm',
+   'DATA'),
+  ('qt_material\\fonts\\roboto\\Roboto-LightItalic.ttf',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\fonts\\roboto\\Roboto-LightItalic.ttf',
+   'DATA'),
+  ('qt_material\\resources\\source\\branch-closed.svg',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\resources\\source\\branch-closed.svg',
+   'DATA'),
+  ('qt_material\\resources\\source\\radiobutton_unchecked.svg',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\resources\\source\\radiobutton_unchecked.svg',
+   'DATA'),
+  ('qt_material\\resources\\source\\slider.svg',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\resources\\source\\slider.svg',
+   'DATA'),
+  ('qt_material\\resources\\source\\rightarrow.svg',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\resources\\source\\rightarrow.svg',
+   'DATA'),
+  ('qt_material\\themes\\light_teal_500.xml',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\themes\\light_teal_500.xml',
+   'DATA'),
+  ('qt_material\\resources\\source\\tab_close.svg',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\resources\\source\\tab_close.svg',
+   'DATA'),
+  ('qt_material\\fonts\\roboto\\Roboto-Regular.ttf',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\fonts\\roboto\\Roboto-Regular.ttf',
+   'DATA'),
+  ('qt_material\\resources\\source\\radiobutton_checked_invert.svg',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\resources\\source\\radiobutton_checked_invert.svg',
+   'DATA'),
+  ('qt_material\\fonts\\roboto\\RobotoCondensed-LightItalic.ttf',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\fonts\\roboto\\RobotoCondensed-LightItalic.ttf',
+   'DATA'),
+  ('qt_material\\themes\\light_red_500.xml',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\themes\\light_red_500.xml',
+   'DATA'),
+  ('qt_material\\material.css.template',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\material.css.template',
+   'DATA'),
+  ('qt_material\\themes\\dark_purple.xml',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\themes\\dark_purple.xml',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_bg.qm',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2\\translations\\qtbase_bg.qm',
+   'DATA'),
+  ('qt_material\\resources\\logo\\__init__.py',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\resources\\logo\\__init__.py',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_gd.qm',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2\\translations\\qtbase_gd.qm',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_es.qm',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2\\translations\\qtbase_es.qm',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_hu.qm',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2\\translations\\qtbase_hu.qm',
+   'DATA'),
+  ('qt_material\\resources\\source\\branch-more.svg',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\resources\\source\\branch-more.svg',
+   'DATA'),
+  ('qt_material\\fonts\\roboto\\RobotoCondensed-Bold.ttf',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\fonts\\roboto\\RobotoCondensed-Bold.ttf',
+   'DATA'),
+  ('qt_material\\themes\\dark_amber.xml',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\themes\\dark_amber.xml',
+   'DATA'),
+  ('qt_material\\resources\\source\\rightarrow2.svg',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\resources\\source\\rightarrow2.svg',
+   'DATA'),
+  ('qt_material\\resources\\source\\leftarrow.svg',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\resources\\source\\leftarrow.svg',
+   'DATA'),
+  ('qt_material\\resources\\logo\\logo_frame.svg',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\resources\\logo\\logo_frame.svg',
+   'DATA'),
+  ('qt_material\\resources\\source\\branch-end.svg',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\resources\\source\\branch-end.svg',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_he.qm',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2\\translations\\qtbase_he.qm',
+   'DATA'),
+  ('qt_material\\resources\\generate.py',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\resources\\generate.py',
+   'DATA'),
+  ('qt_material\\resources\\source\\__init__.py',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\resources\\source\\__init__.py',
+   'DATA'),
+  ('qt_material\\themes\\dark_pink.xml',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\themes\\dark_pink.xml',
+   'DATA'),
+  ('qt_material\\themes\\dark_cyan.xml',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\themes\\dark_cyan.xml',
+   'DATA'),
+  ('qt_material\\themes\\light_orange.xml',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\themes\\light_orange.xml',
+   'DATA'),
+  ('qt_material\\themes\\light_teal.xml',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\themes\\light_teal.xml',
+   'DATA'),
+  ('qt_material\\fonts\\roboto\\Roboto-MediumItalic.ttf',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\fonts\\roboto\\Roboto-MediumItalic.ttf',
+   'DATA'),
+  ('qt_material\\resources\\source\\checkbox_unchecked_invert.svg',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\resources\\source\\checkbox_unchecked_invert.svg',
+   'DATA'),
+  ('qt_material\\themes\\dark_lightgreen.xml',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\themes\\dark_lightgreen.xml',
+   'DATA'),
+  ('qt_material\\resources\\source\\close.svg',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\resources\\source\\close.svg',
+   'DATA'),
+  ('qt_material\\resources\\source\\radiobutton_checked.svg',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\resources\\source\\radiobutton_checked.svg',
+   'DATA'),
+  ('qt_material\\resources\\__init__.py',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\resources\\__init__.py',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_ru.qm',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2\\translations\\qtbase_ru.qm',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_uk.qm',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2\\translations\\qtbase_uk.qm',
+   'DATA'),
+  ('qt_material\\fonts\\roboto\\Roboto-Black.ttf',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\fonts\\roboto\\Roboto-Black.ttf',
+   'DATA'),
+  ('qt_material\\resources\\__pycache__\\__init__.cpython-39.pyc',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\resources\\__pycache__\\__init__.cpython-39.pyc',
+   'DATA'),
+  ('qt_material\\themes\\light_pink_500.xml',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\themes\\light_pink_500.xml',
+   'DATA'),
+  ('qt_material\\resources\\source\\__pycache__\\__init__.cpython-39.pyc',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\resources\\source\\__pycache__\\__init__.cpython-39.pyc',
+   'DATA'),
+  ('qt_material\\themes\\dark_blue.xml',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\themes\\dark_blue.xml',
+   'DATA'),
+  ('qt_material\\resources\\source\\splitter-vertical.svg',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\resources\\source\\splitter-vertical.svg',
+   'DATA'),
+  ('qt_material\\fonts\\roboto\\Roboto-ThinItalic.ttf',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\fonts\\roboto\\Roboto-ThinItalic.ttf',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_tr.qm',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2\\translations\\qtbase_tr.qm',
+   'DATA'),
+  ('qt_material\\fonts\\roboto\\Roboto-Medium.ttf',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\fonts\\roboto\\Roboto-Medium.ttf',
+   'DATA'),
+  ('qt_material\\resources\\source\\float.svg',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\resources\\source\\float.svg',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_ko.qm',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2\\translations\\qtbase_ko.qm',
+   'DATA'),
+  ('qt_material\\themes\\light_lightgreen.xml',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\themes\\light_lightgreen.xml',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_ja.qm',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2\\translations\\qtbase_ja.qm',
+   'DATA'),
+  ('qt_material\\resources\\source\\vline.svg',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\resources\\source\\vline.svg',
+   'DATA'),
+  ('qt_material\\resources\\source\\checklist_indeterminate_invert.svg',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\resources\\source\\checklist_indeterminate_invert.svg',
+   'DATA'),
+  ('qt_material\\themes\\light_pink.xml',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\themes\\light_pink.xml',
+   'DATA'),
+  ('qt_material\\resources\\source\\radiobutton_unchecked_invert.svg',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\resources\\source\\radiobutton_unchecked_invert.svg',
+   'DATA'),
+  ('qt_material\\fonts\\roboto\\Roboto-Light.ttf',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\fonts\\roboto\\Roboto-Light.ttf',
+   'DATA'),
+  ('qt_material\\themes\\light_purple.xml',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\themes\\light_purple.xml',
+   'DATA'),
+  ('qt_material\\themes\\dark_medical.xml',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\themes\\dark_medical.xml',
+   'DATA'),
+  ('qt_material\\themes\\light_red.xml',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\themes\\light_red.xml',
+   'DATA'),
+  ('qt_material\\fonts\\roboto\\RobotoCondensed-Italic.ttf',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\fonts\\roboto\\RobotoCondensed-Italic.ttf',
+   'DATA'),
+  ('qt_material\\fonts\\roboto\\Roboto-Thin.ttf',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\fonts\\roboto\\Roboto-Thin.ttf',
+   'DATA'),
+  ('qt_material\\resources\\source\\uparrow2.svg',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\qt_material\\resources\\source\\uparrow2.svg',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_fi.qm',
+   'C:\\Users\\Jose '
+   'Luis\\OneDrive\\Escritorio\\Moni_App\\env\\lib\\site-packages\\PySide2\\translations\\qtbase_fi.qm',
+   'DATA')],
+ [])
